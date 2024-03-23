@@ -7,6 +7,9 @@
 
 I became a data scientist because I’m passionate about creative problem solving for public good. I want to apply my love of science and data to challenges where I can have an impact and help others.
 
+### Currently
+Data scientist interested in solving problems for the public good. 
+
 ### What I'm up to:
 * I am currently working on a project that leverages time series analysis to examine McDonald's market trends over time. The objective is to monitor shifts in customer opinions to foresee market changes and adjust strategies accordingly.
 * Open to collaborate on data and machine learning projects that tell interesting stories and/or have a social impact
