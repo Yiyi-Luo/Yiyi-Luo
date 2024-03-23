@@ -13,8 +13,14 @@ I became a data scientist because I’m passionate about creative problem solvin
 * Ask me about creating complex data visualizations or using Python to generate dynamic SQL queries and Excel reports.
 * Goal: Visit all 62 National Parks!
 
-### Connect me with:
-[![LinkedIn](<img width="196" alt="Screenshot 2024-03-23 at 7 21 45 PM" src="https://github.com/Yiyi-Luo/YiyiLuo/assets/149438809/1f4457b4-2ac8-4142-beae-b47a8468171e">)](www.linkedin.com/in/yiyi-luo)
+
+### Connect with me:
+
+<a href="https://www.linkedin.com/in/yiyi-luo">
+  &nbsp;&nbsp;<img src="https://github.com/Yiyi-Luo/YiyiLuo/assets/149438809/1f4457b4-2ac8-4142-beae-b47a8468171e" width="100" alt="LinkedIn">
+</a>
+
+
 
    
 
