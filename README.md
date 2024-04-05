@@ -12,7 +12,7 @@ I became a data scientist because I’m passionate about creative problem solvin
 * I am currently working on a project that leverages time series analysis to examine McDonald's market trends over time. The objective is to monitor shifts in customer opinions to foresee market changes and adjust strategies accordingly.
 * Open to collaborate on data and machine learning projects that tell interesting stories and/or have a social impact
 * Ask me about creating complex data visualizations or utilizing generative AI.
-* Goal: build a robot that can talk back to me!
+* Goal: build a robot from scratch that can talk back to me!
 
 
 ### Connect with me:
